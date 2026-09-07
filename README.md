@@ -41,9 +41,11 @@ Regresión supervisada. Métrica principal de selección: **RMSE en USD** (se re
 
 | Modelo | RMSE (USD) | MAE (USD) | R² (test) | MAPE | R² (train) | Tiempo (s) |
 |---|---:|---:|---:|---:|---:|---:|
-| **RandomForest** | **537.47** | **265.89** | **0.9818** | **0.0635** | 0.9930 | 198.74 |
-| Ridge | 921.69 | 462.59 | 0.9466 | 0.1140 | 0.9442 | 10.40 |
-| Lasso | 954.09 | 470.83 | 0.9427 | 0.1148 | 0.9404 | 4.03 |
+| **RandomForest** | **537.47** | **265.89** | **0.9818** | **0.0635** | 0.9930 | 265.77 |
+| Ridge | 921.69 | 462.59 | 0.9466 | 0.1140 | 0.9442 | 29.16 |
+| Lasso | 954.09 | 470.83 | 0.9427 | 0.1148 | 0.9404 | 6.83 |
+
+> *El tiempo de entrenamiento depende del equipo (incluye el `GridSearchCV`); las métricas de exactitud son reproducibles.*
 
 > El bosque aleatorio explica el **98,2 %** de la variabilidad del precio con un error porcentual medio del **6,35 %**, muy por encima de los modelos lineales, y sin sobreajuste relevante. Tabla completa en [`resultados_modelos.csv`](resultados_modelos.csv).
 
