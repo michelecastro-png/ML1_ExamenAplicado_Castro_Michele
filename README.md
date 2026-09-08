@@ -73,9 +73,7 @@ El notebook descarga el dataset automáticamente desde la URL pública indicada 
 
 ## 7. Enlace al video
 
-📹 **Presentación (≤ 8 min):** `PEGAR_AQUÍ_EL_ENLACE_DE_YOUTUBE/DRIVE/ONEDRIVE`
-
-> Reemplazar este marcador tras grabar y subir el video (YouTube en modo *no listado*, Google Drive u OneDrive).
+📹 **Presentación (≤ 8 min):** pendiente de subir — se agregará a este README apenas esté disponible.
 
 ## 8. Declaración de uso de IA generativa
 
