@@ -60,7 +60,6 @@ Regresión supervisada. Métrica principal de selección: **RMSE en USD** (se re
 ├── data/
 │   └── diamonds.csv                            # dataset (para reproducibilidad offline)
 ├── figures/                                    # 14 figuras (dpi=150)
-├── GUION_VIDEO.md                              # guion de la presentación en video
 └── INSTRUCCIONES_ENTREGA.md                    # pasos para GitHub y video
 ```
 
@@ -79,7 +78,7 @@ El notebook carga el dataset desde `data/diamonds.csv` y, si no lo encuentra, lo
 
 📹 **Presentación (≤ 8 min):** `PEGAR_AQUÍ_EL_ENLACE_DE_YOUTUBE/DRIVE/ONEDRIVE`
 
-> Reemplazar este marcador tras grabar y subir el video (YouTube en modo *no listado*, Google Drive u OneDrive). El guion está en [`GUION_VIDEO.md`](GUION_VIDEO.md).
+> Reemplazar este marcador tras grabar y subir el video (YouTube en modo *no listado*, Google Drive u OneDrive).
 
 ## 8. Declaración de uso de IA generativa
 

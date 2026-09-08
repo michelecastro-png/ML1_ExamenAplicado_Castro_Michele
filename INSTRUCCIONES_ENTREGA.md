@@ -10,8 +10,7 @@ Este proyecto ya está **completo y ejecutado**. Faltan solo dos cosas que **deb
 - `README.md`, `requirements.txt`, `resultados_modelos.csv`.
 - `figures/` — 14 gráficos guardados con `dpi=150`.
 - `data/diamonds.csv` — dataset incluido para reproducibilidad.
-- `GUION_VIDEO.md` — guion del video.
-- Repositorio Git **inicializado con 4 commits descriptivos**.
+- Repositorio Git **inicializado con varios commits descriptivos**.
 
 ---
 
@@ -45,7 +44,7 @@ gh repo create ML1_ExamenAplicado_Castro_Michele --public --source=. --remote=or
 ## 2️⃣ Grabar y enlazar el video
 
 1. Abre el notebook ya ejecutado en pantalla completa.
-2. Graba siguiendo **`GUION_VIDEO.md`** (máx. **8 minutos**, audio claro).
+2. Graba una presentación (máx. **8 minutos**, audio claro) cubriendo: dataset y justificación, EDA, PCA + K-Means, modelos y tabla comparativa, e interpretación y conclusiones.
 3. Súbelo a **YouTube (no listado)**, **Google Drive** u **OneDrive** con acceso de lectura.
 4. Pega el enlace en la **sección 7 del `README.md`** (reemplaza el marcador `PEGAR_AQUÍ_...`).
 5. Haz el commit final con el enlace:
