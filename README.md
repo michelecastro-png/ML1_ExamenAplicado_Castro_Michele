@@ -73,7 +73,9 @@ El notebook descarga el dataset automáticamente desde la URL pública indicada 
 
 ## 7. Enlace al video
 
-📹 **Presentación (≤ 8 min):** pendiente de subir — se agregará a este README apenas esté disponible.
+📹 **Presentación (4:05 min):** https://www.loom.com/share/2d40adb51558486b8a9305bbc49f9641
+
+> Nota: el video se agregó después del plazo de entrega del repositorio; se avisó de esto directamente al profesor.
 
 ## 8. Declaración de uso de IA generativa
 
