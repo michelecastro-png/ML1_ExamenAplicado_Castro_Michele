@@ -57,10 +57,7 @@ Regresión supervisada. Métrica principal de selección: **RMSE en USD** (se re
 ├── README.md
 ├── requirements.txt                           # entorno reproducible
 ├── resultados_modelos.csv                      # tabla comparativa de modelos
-├── data/
-│   └── diamonds.csv                            # dataset (para reproducibilidad offline)
-├── figures/                                    # 14 figuras (dpi=150)
-└── INSTRUCCIONES_ENTREGA.md                    # pasos para GitHub y video
+└── figures/                                    # 14 figuras (dpi=150)
 ```
 
 ## 6. Cómo reproducir el análisis
@@ -72,7 +69,7 @@ jupyter notebook ML1_ExamenAplicado_Castro_Michele.ipynb
 jupyter nbconvert --to notebook --execute ML1_ExamenAplicado_Castro_Michele.ipynb
 ```
 
-El notebook carga el dataset desde `data/diamonds.csv` y, si no lo encuentra, lo descarga automáticamente de la URL pública.
+El notebook descarga el dataset automáticamente desde la URL pública indicada en la sección 1.
 
 ## 7. Enlace al video
 
